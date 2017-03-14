@@ -1,0 +1,9 @@
+.button {
+  composes: flex-row from './layout.css';
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
+}

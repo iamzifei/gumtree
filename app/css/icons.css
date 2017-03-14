@@ -1,0 +1,25 @@
+.icon {
+  height: 0;
+  width: 0;
+  transition: all .1s;
+}
+.down {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #468a11;
+}
+.up {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #468a11;
+}
+.left {
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right:10px solid #468a11;
+}
+.right {
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid #468a11;
+}
